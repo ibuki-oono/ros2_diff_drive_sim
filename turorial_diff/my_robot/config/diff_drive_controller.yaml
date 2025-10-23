@@ -9,3 +9,15 @@ diff_drive_controller:
     wheel_radius: 0.09
     use_stamped_vel: false
     cmd_vel_timeout: 0.2
+
+    # Velocity limits
+    linear:
+      x:
+        has_velocity_limits: true
+        max_velocity: 5.0       # adjust to your desired max linear speed
+        min_velocity: -5.0
+    angular:
+      z:
+        has_velocity_limits: true
+        max_velocity: 2.0       # adjust to your desired max angular speed
+        min_velocity: -2.0

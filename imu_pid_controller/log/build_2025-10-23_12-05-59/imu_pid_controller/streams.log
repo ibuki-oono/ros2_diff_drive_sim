@@ -1,0 +1,24 @@
+[0.295s] Invoking command in '/home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/src/imu_pid_controller': PYTHONPATH=/home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/imu_pid_controller build --build-base /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller/build install --record /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller/install.log --single-version-externally-managed install_data
+[0.466s] running egg_info
+[0.466s] writing ../../build/imu_pid_controller/imu_pid_controller.egg-info/PKG-INFO
+[0.466s] writing dependency_links to ../../build/imu_pid_controller/imu_pid_controller.egg-info/dependency_links.txt
+[0.466s] writing entry points to ../../build/imu_pid_controller/imu_pid_controller.egg-info/entry_points.txt
+[0.466s] writing requirements to ../../build/imu_pid_controller/imu_pid_controller.egg-info/requires.txt
+[0.466s] writing top-level names to ../../build/imu_pid_controller/imu_pid_controller.egg-info/top_level.txt
+[0.469s] reading manifest file '../../build/imu_pid_controller/imu_pid_controller.egg-info/SOURCES.txt'
+[0.471s] writing manifest file '../../build/imu_pid_controller/imu_pid_controller.egg-info/SOURCES.txt'
+[0.471s] running build
+[0.471s] running build_py
+[0.471s] copying imu_pid_controller/imu_pid_controller.py -> /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller/build/lib/imu_pid_controller
+[0.471s] running install
+[0.471s] running install_lib
+[0.471s] copying /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller/build/lib/imu_pid_controller/imu_pid_controller.py -> /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/lib/python3.10/site-packages/imu_pid_controller
+[0.471s] byte-compiling /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/lib/python3.10/site-packages/imu_pid_controller/imu_pid_controller.py to imu_pid_controller.cpython-310.pyc
+[0.471s] running install_data
+[0.471s] running install_egg_info
+[0.474s] removing '/home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/lib/python3.10/site-packages/imu_pid_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[0.474s] Copying ../../build/imu_pid_controller/imu_pid_controller.egg-info to /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/lib/python3.10/site-packages/imu_pid_controller-0.0.0-py3.10.egg-info
+[0.474s] running install_scripts
+[0.495s] Installing imu_pid_controller script to /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/lib/imu_pid_controller
+[0.495s] writing list of installed files to '/home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller/install.log'
+[0.517s] Invoked command in '/home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/src/imu_pid_controller' returned '0': PYTHONPATH=/home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/imu_pid_controller build --build-base /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller/build install --record /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller/install.log --single-version-externally-managed install_data

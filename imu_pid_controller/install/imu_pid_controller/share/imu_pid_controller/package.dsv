@@ -4,6 +4,3 @@ source;share/imu_pid_controller/hook/pythonpath.sh
 source;share/imu_pid_controller/hook/ament_prefix_path.ps1
 source;share/imu_pid_controller/hook/ament_prefix_path.dsv
 source;share/imu_pid_controller/hook/ament_prefix_path.sh
-source;../../build/imu_pid_controller/share/imu_pid_controller/hook/pythonpath_develop.ps1
-source;../../build/imu_pid_controller/share/imu_pid_controller/hook/pythonpath_develop.dsv
-source;../../build/imu_pid_controller/share/imu_pid_controller/hook/pythonpath_develop.sh
