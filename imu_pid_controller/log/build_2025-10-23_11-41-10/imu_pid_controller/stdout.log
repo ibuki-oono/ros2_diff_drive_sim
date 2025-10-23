@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing imu_pid_controller.egg-info/PKG-INFO
+writing dependency_links to imu_pid_controller.egg-info/dependency_links.txt
+writing entry points to imu_pid_controller.egg-info/entry_points.txt
+writing requirements to imu_pid_controller.egg-info/requires.txt
+writing top-level names to imu_pid_controller.egg-info/top_level.txt
+reading manifest file 'imu_pid_controller.egg-info/SOURCES.txt'
+writing manifest file 'imu_pid_controller.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/lib/python3.10/site-packages/imu-pid-controller.egg-link (link to .)
+
+Installed /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller
+running symlink_data
+symbolically linking /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller/resource/imu_pid_controller -> /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/share/ament_index/resource_index/packages
+symbolically linking /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller/package.xml -> /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/share/imu_pid_controller

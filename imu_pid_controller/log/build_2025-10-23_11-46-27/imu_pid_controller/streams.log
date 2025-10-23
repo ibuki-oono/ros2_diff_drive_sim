@@ -1,0 +1,17 @@
+[0.310s] Invoking command in '/home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller': PYTHONPATH=/home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller/build --no-deps symlink_data
+[0.493s] running develop
+[0.620s] running egg_info
+[0.620s] writing imu_pid_controller.egg-info/PKG-INFO
+[0.621s] writing dependency_links to imu_pid_controller.egg-info/dependency_links.txt
+[0.621s] writing entry points to imu_pid_controller.egg-info/entry_points.txt
+[0.622s] writing requirements to imu_pid_controller.egg-info/requires.txt
+[0.622s] writing top-level names to imu_pid_controller.egg-info/top_level.txt
+[0.623s] reading manifest file 'imu_pid_controller.egg-info/SOURCES.txt'
+[0.624s] writing manifest file 'imu_pid_controller.egg-info/SOURCES.txt'
+[0.624s] running build_ext
+[0.624s] Creating /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/lib/python3.10/site-packages/imu-pid-controller.egg-link (link to .)
+[0.625s] Installing imu_pid_controller script to /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/lib/imu_pid_controller
+[0.625s] 
+[0.625s] Installed /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller
+[0.625s] running symlink_data
+[0.651s] Invoked command in '/home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller' returned '0': PYTHONPATH=/home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller/build --no-deps symlink_data

@@ -1,0 +1,3 @@
+[console_scripts]
+imu_pid_controller = imu_pid_controller.imu_pid_controller:main
+

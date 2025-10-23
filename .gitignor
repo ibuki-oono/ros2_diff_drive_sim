@@ -1,0 +1,11 @@
+# Colcon / ROS2 build folders
+build/
+install/
+log/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Optional: OS specific
+.DS_Store

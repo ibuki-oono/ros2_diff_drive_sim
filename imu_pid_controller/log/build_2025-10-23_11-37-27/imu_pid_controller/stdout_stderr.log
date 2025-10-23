@@ -1,0 +1,34 @@
+running egg_info
+creating ../../build/imu_pid_controller/imu_pid_controller.egg-info
+writing ../../build/imu_pid_controller/imu_pid_controller.egg-info/PKG-INFO
+writing dependency_links to ../../build/imu_pid_controller/imu_pid_controller.egg-info/dependency_links.txt
+writing entry points to ../../build/imu_pid_controller/imu_pid_controller.egg-info/entry_points.txt
+writing requirements to ../../build/imu_pid_controller/imu_pid_controller.egg-info/requires.txt
+writing top-level names to ../../build/imu_pid_controller/imu_pid_controller.egg-info/top_level.txt
+writing manifest file '../../build/imu_pid_controller/imu_pid_controller.egg-info/SOURCES.txt'
+reading manifest file '../../build/imu_pid_controller/imu_pid_controller.egg-info/SOURCES.txt'
+writing manifest file '../../build/imu_pid_controller/imu_pid_controller.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller/build
+creating /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller/build/lib
+creating /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller/build/lib/imu_pid_controller
+copying imu_pid_controller/imu_pid_controller.py -> /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller/build/lib/imu_pid_controller
+copying imu_pid_controller/__init__.py -> /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller/build/lib/imu_pid_controller
+running install
+running install_lib
+creating /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/lib/python3.10/site-packages/imu_pid_controller
+copying /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller/build/lib/imu_pid_controller/imu_pid_controller.py -> /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/lib/python3.10/site-packages/imu_pid_controller
+copying /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller/build/lib/imu_pid_controller/__init__.py -> /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/lib/python3.10/site-packages/imu_pid_controller
+byte-compiling /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/lib/python3.10/site-packages/imu_pid_controller/imu_pid_controller.py to imu_pid_controller.cpython-310.pyc
+byte-compiling /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/lib/python3.10/site-packages/imu_pid_controller/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/share/ament_index
+creating /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/share/ament_index/resource_index
+creating /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/share/ament_index/resource_index/packages
+copying resource/imu_pid_controller -> /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/share/ament_index/resource_index/packages
+copying package.xml -> /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/share/imu_pid_controller
+running install_egg_info
+Copying ../../build/imu_pid_controller/imu_pid_controller.egg-info to /home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/install/imu_pid_controller/lib/python3.10/site-packages/imu_pid_controller-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/ibuki/ros2_diff_drive/ros2_diff_drive_sim/imu_pid_controller/build/imu_pid_controller/install.log'
