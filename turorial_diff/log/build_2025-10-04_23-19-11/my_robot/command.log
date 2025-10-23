@@ -1,6 +1,0 @@
-Invoking command in '/home/ibuki/turorial_diff/build/my_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ibuki/turorial_diff/my_robot -DCMAKE_INSTALL_PREFIX=/home/ibuki/turorial_diff/install/my_robot
-Invoked command in '/home/ibuki/turorial_diff/build/my_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ibuki/turorial_diff/my_robot -DCMAKE_INSTALL_PREFIX=/home/ibuki/turorial_diff/install/my_robot
-Invoking command in '/home/ibuki/turorial_diff/build/my_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ibuki/turorial_diff/build/my_robot -- -j14 -l14
-Invoked command in '/home/ibuki/turorial_diff/build/my_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ibuki/turorial_diff/build/my_robot -- -j14 -l14
-Invoking command in '/home/ibuki/turorial_diff/build/my_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ibuki/turorial_diff/build/my_robot
-Invoked command in '/home/ibuki/turorial_diff/build/my_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ibuki/turorial_diff/build/my_robot
